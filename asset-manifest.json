@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaporisingwave/static/css/main.6f3b684f.css",
+    "main.js": "/vaporisingwave/static/js/main.50649b95.js",
+    "static/js/488.a7d864ff.chunk.js": "/vaporisingwave/static/js/488.a7d864ff.chunk.js",
+    "index.html": "/vaporisingwave/index.html",
+    "main.6f3b684f.css.map": "/vaporisingwave/static/css/main.6f3b684f.css.map",
+    "main.50649b95.js.map": "/vaporisingwave/static/js/main.50649b95.js.map",
+    "488.a7d864ff.chunk.js.map": "/vaporisingwave/static/js/488.a7d864ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3b684f.css",
+    "static/js/main.50649b95.js"
+  ]
+}
